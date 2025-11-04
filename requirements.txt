@@ -10,3 +10,4 @@ wikipedia==1.4.0
 langchain-chroma==0.1.2
 langserve==0.2.2
 langgraph==0.1.19
+langchain_google_genai==1.0.10
